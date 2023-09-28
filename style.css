@@ -1,0 +1,91 @@
+.body{
+    font-family: 'Poppins', sans-serif;
+}
+h1{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 70px;
+    border-left: 3px solid red;
+    margin-top: 20%;
+    padding-left: 2%;
+    height: 145px;
+}
+h2{
+    font-size: 50px;
+}
+h3{
+    font-size: 35px;
+}
+.orange {
+    color: orange;
+}
+.top-part{
+    display: flex;
+}
+.top-section{
+    width: 60%;
+    margin-left: 8%;
+    margin-bottom: 5%;
+    margin-top: 1%;
+}
+.top-section img{
+    width: 70%;
+}
+.button{
+    text-decoration: none;
+    border-radius: 5px;
+    padding: 10px 30px;
+    background-color: #ce0e0ea9;
+    color: #ffffff;
+}
+#mission-h2{
+    text-align: center;
+}
+.missions{
+    display: flex;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+.mission{
+    border-radius: 10px;
+    background-color: #00ffff1a;
+    padding: 20px;
+    margin-right: 20px;
+    width: 100%;
+}
+.mission img{
+    width: 50%;
+}
+#bg-vission{
+    background-color: #ff00ff23;
+}
+#bg-goal{
+    background-color: #ffae0031;
+}
+.documentation{
+    display: flex;
+    margin: 8%;
+}
+.docs{
+    padding: 5px;
+    margin-left: 3%;
+    margin-right: 3%;
+    text-align: justify;
+}
+.docs img{
+    width: 500px;
+}
+.docs1{
+margin-left: 3%;
+margin-right: 3%;
+padding: 5px;
+text-align: justify;
+}
+.docs1 img{
+    width: 500px;
+    }
+footer{
+    background-color: #121216;
+    color: white;
+    text-align: center;
+    padding: 15px;
+}

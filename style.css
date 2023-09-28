@@ -7,7 +7,6 @@ h1{
     border-left: 3px solid red;
     margin-top: 20%;
     padding-left: 2%;
-    height: 145px;
 }
 h2{
     font-size: 50px;
@@ -88,4 +87,7 @@ footer{
     color: white;
     text-align: center;
     padding: 15px;
+}
+#footer-font{
+   font-family: 'Lobster';
 }
